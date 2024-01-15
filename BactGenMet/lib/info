@@ -1,0 +1,15 @@
+-u	input
+-o	output
+-x	.\lib\bin
+-y	.\lib\bin\tmp
+-i	S.aureus_150.gff
+-g	S.aureus_150.gbk
+-m	
+-w	ACAYNNNNNGGT
+-d	3
+-r	12
+-c	0
+-n	2
+-z	Yes
+-p	75
+-f	M
